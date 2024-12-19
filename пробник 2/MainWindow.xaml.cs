@@ -23,6 +23,9 @@ namespace пробник_2
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine(12+9);
+
+
         }
     }
 }
