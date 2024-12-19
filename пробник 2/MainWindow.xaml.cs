@@ -23,6 +23,8 @@ namespace пробник_2
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("popa");
+            Console.WriteLine("popa");
             Console.WriteLine(12+9);
 
 
