@@ -24,6 +24,7 @@ namespace пробник_2
         {
             InitializeComponent();
             Console.WriteLine("popa");
+            Console.WriteLine("popa");
         }
     }
 }
